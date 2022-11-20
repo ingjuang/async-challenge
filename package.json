@@ -1,0 +1,23 @@
+{
+  "name": "async-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingjuang/async-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingjuang/async-challenge/issues"
+  },
+  "homepage": "https://github.com/ingjuang/async-challenge#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
